@@ -1,6 +1,7 @@
 # Scefad
 Scefad (source code editor for Android device), is a text editor made by Scefad team for Android or IOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
+Ah ignore my english 😂🙏
 # To-Do list
 
 1. embed Ace Ide - https://ace.c9.io/ in this project
